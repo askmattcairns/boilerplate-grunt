@@ -1,0 +1,14 @@
+# osx noise
+.DS_Store
+profile
+
+# Node
+node_modules
+
+# Bower
+src/bower_components/*
+
+# Built scripts
+src/javascript/scripts.js
+dev/style.css
+dev/_/js/*

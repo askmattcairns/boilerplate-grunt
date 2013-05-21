@@ -1,0 +1,4 @@
+// Fix for scrollbars inside Facebook iFrame
+html.iframe {
+  overflow: hidden;
+}
